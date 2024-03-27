@@ -1,4 +1,4 @@
-# omeFreq
+# freqSight
 
 Description goes here.
 
